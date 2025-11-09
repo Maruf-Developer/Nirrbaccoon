@@ -1,5 +1,353 @@
 {
 
+ "_hint": "Dhaka",
+
+  "dhaka1":[
+   
+    ],
+
+    
+  "dhaka2":[
+   
+    ],
+
+    
+  "dhaka3":[
+   
+    ],
+
+    
+  "dhaka4":[
+   
+    ],
+
+    
+  "tangail":[
+   
+    ],
+
+    
+  "gazipur":[
+   
+    ],
+
+    
+  "narsingdi":[
+   
+    ],
+
+    
+  "narayanganj":[
+   
+    ],
+
+    
+  "kishoreganj":[
+   
+    ],
+
+    
+  "faridpur":[
+   
+    ],
+
+    
+  "manikganj":[
+   
+    ],
+
+    
+  "munshiganj":[
+   
+    ],
+
+    
+  "gopalganj":[
+   
+    ],
+
+    
+  "madaripur":[
+   
+    ],
+
+    
+  "shariatpur":[
+   
+    ],
+
+    
+  "rajbari":[
+   
+    ],
+       
+    
+
+
+
+ "_hint": "Chittagong",
+    
+  "chattogram1":[
+   
+    ],
+
+    
+  "chattogram2":[
+   
+    ],
+
+
+  "chattogram3":[
+   
+    ],
+    
+  "cumilla1":[
+   
+    ],
+    
+  "cumilla2":[
+   
+    ],
+
+    
+  "brahmanbaria":[
+   
+    ],
+
+    
+  "noakhali":[
+   
+    ],
+
+    
+  "chandpur":[
+   
+    ],
+
+    
+  "lakshmipur":[
+   
+    ],
+
+    
+  "cox’s bazar":[
+   
+    ],
+
+    
+  "feni":[
+   
+    ],
+
+    
+  "khagrachhari":[
+   
+    ],
+
+    
+  "rangamati":[
+   
+    ],
+
+    
+  "bandarban":[
+   
+    ],
+
+       
+    
+
+ "_hint": "Mymensing",
+
+  
+  "mymensingh1":[
+   
+    ],
+
+    
+  "mymensingh2":[
+   
+    ],
+
+    
+  "jamalpur":[
+   
+    ],
+
+    
+  "netrokona":[
+   
+    ],
+
+    
+  "sherpur":[
+   
+    ],
+
+
+
+
+ "_hint": "Khulna",
+
+
+  "khulna":[
+   
+    ],
+
+    
+  "jashore":[
+   
+    ],
+
+    
+  "kushtia":[
+   
+    ],
+
+    
+  "jhenaidah":[
+   
+    ],
+
+    
+  "bagerhat":[
+   
+    ],
+
+    
+  "satkhira":[
+   
+    ],
+
+    
+  "chuadanga":[
+   
+    ],
+
+    
+  "meherpur":[
+   
+    ],
+
+    
+  "magura":[
+   
+    ],
+
+    
+  "narail":[
+   
+    ],
+
+       
+
+
+ "_hint": "Barishal",
+
+  "barishal":[
+   
+    ],
+
+    
+  "patuakhali":[
+   
+    ],
+
+    
+  "bhola":[
+   
+    ],
+
+    
+  "pirojpur":[
+   
+    ],
+
+    
+  "barguna":[
+   
+    ],
+
+    
+  "jhalokathi":[
+   
+    ],
+
+       
+
+ "_hint": "Sylhet",
+
+  "sylhet":[
+   
+    ],
+
+    
+  "sunamganj":[
+   
+    ],
+
+    
+  "moulvibazar":[
+   
+    ],
+
+    
+  "habiganj":[
+   
+    ],
+
+       
+
+
+ "_hint": "Rangpur",
+
+  "rangpur":[
+   
+    ],
+
+    
+  "dinajpur":[
+   
+    ],
+
+    
+  "lalmonirhat":[
+   
+    ],
+
+    
+  "nilphamari":[
+   
+    ],
+
+    
+  "kurigram":[
+   
+    ],
+
+    
+  "gaibandha":[
+   
+    ],
+
+    
+  "thakurgaon":[
+   
+    ],
+
+    
+  "panchagarh":[
+   
+    ],
+
+       
+    
+
+
+
+
+
+
 
 
 "square43":[
