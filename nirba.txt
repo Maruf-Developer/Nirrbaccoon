@@ -19,8 +19,8 @@
   "PopularAshon": [
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/fani/fani1%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/MyTest/refs/heads/main/oo/t2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/MyTest/refs/heads/main/oo/t1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Dhka/dhka/dhk6%20(4).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ranpr/thakuurgan/thakur1%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/MyTest/refs/heads/main/oo/t1.webp"
   ],
 
 
