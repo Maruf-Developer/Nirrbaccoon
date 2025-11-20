@@ -24,7 +24,7 @@
 
     
   "narayanganj":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/nrshnd5.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/nryngj4.webp"
     ],
 
     
@@ -83,9 +83,6 @@
   "cumilla":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/cum1.webp"
     ],
-    
-  "cumilla2":[
-    ],
 
     
   "brahmanbaria":[
@@ -142,6 +139,7 @@
 "_hint": "Rajshahi",
 
   "rajshahi":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -166,6 +164,7 @@
 
     
   "pabna":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -175,6 +174,7 @@
 
     
   "chapainawabganj":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -206,7 +206,10 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
-
+    
+  "jamalpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
+    ],
 
 
  "_hint": "Khulna",
@@ -223,6 +226,7 @@
 
     
   "kushtia":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -242,10 +246,12 @@
 
     
   "chuadanga":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "meherpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -255,6 +261,7 @@
 
     
   "narail":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
        
@@ -296,18 +303,22 @@
  "_hint": "Sylhet",
 
   "sylhet":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "sunamganj":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "moulvibazar":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "habiganj":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
        
@@ -316,14 +327,17 @@
  "_hint": "Rangpur",
 
   "rangpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "dinajpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "lalmonirhat":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
@@ -333,18 +347,22 @@
 
     
   "kurigram":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "gaibandha":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "thakurgaon":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
     
   "panchagarh":[   
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ]
 
 }
