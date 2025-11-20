@@ -80,13 +80,6 @@
     ],
 
     
-  "chattogram2":[
-    ],
-
-
-  "chattogram3":[
-    ],
-    
   "cumilla":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/cum1.webp"
     ],
@@ -203,14 +196,6 @@
     ],
 
     
-  "mymensingh2":[
-    ],
-
-    
-  "jamalpur":[
-    ],
-
-    
   "netrokona":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/ntrkna%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/ntrkna%20(2).webp"
@@ -218,6 +203,7 @@
 
     
   "sherpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
     ],
 
 
