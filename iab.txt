@@ -1,13 +1,5 @@
 {
 
-  "PopularAshon": [
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/dhaka15.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/barisl5.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/kushtia3.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/MyTest/refs/heads/main/oo/t2.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/raj1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/MyTest/refs/heads/main/oo/t1.webp"
-  ],
 
  "_hint": "Dhaka",
 
@@ -118,7 +110,6 @@
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/chadpr2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/chadpr3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/chadpr4.webp"
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/.webp",
     ],
 
     
@@ -236,12 +227,12 @@
 
 
   "khulna":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul3.webp"
     ],
 
     
   "jessore":[
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/jssor6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/jssor6.webp"
     ],
 
     
@@ -250,7 +241,7 @@
 
     
   "jhenaidah":[
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/jhinaidh4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/jhinaidh4.webp"
     ],
 
     
