@@ -434,22 +434,31 @@
 
     
   "patuakhali":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/patua%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/patua%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/patua%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/patua%20(4).webp"
     ],
 
     
   "bhola":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/vla%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/vla%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/vla%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/vla%20(4).webp"
     ],
 
     
   "pirojpur":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/projpr%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/projpr%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/projpr%20(3).webp"
     ],
 
     
   "barguna":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/brguna%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/brguna%20(2).webp"
     ],
 
     
