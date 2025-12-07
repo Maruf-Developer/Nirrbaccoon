@@ -538,7 +538,23 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad1%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad1%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad1%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad1%20(4).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad1%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad2%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad2%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad2%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad2%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad3%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad3%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad3%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad3%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad4%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad4%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad4%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad4%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad5%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad5%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad5%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Ctg/chdpor/chad5%20(4).webp"
     ],
 
     
@@ -897,10 +913,26 @@
 
     
   "jamalpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal1%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal1%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal1%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal1%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal2%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal2%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal2%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal2%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal3%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal3%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal3%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal3%20(4).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal3%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal4%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal4%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal4%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal4%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal5%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal5%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal5%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BBNNP/Mymnsng/jmlpr/jamal5%20(4).webp"
     ],
 
     
