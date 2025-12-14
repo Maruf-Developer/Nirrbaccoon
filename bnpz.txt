@@ -1428,7 +1428,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
     ],
 
-  "OtherChattogram":[
+  "OtherChittagong":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
     ],
 
