@@ -1417,5 +1417,42 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ranpr/ponchogr/poncho2%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ranpr/ponchogr/poncho2%20(3).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ranpr/ponchogr/poncho2%20(4).webp"
+    ],
+
+
+
+
+ "_hint": "Other_Political_Group",
+
+  "OtherDhaka":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherChattogram":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherRajshahi":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherKhulna":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherMymensingh":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherBarishal":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherSylhet":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
+    ],
+
+  "OtherRangpur":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/mlvbjr/mou1%20(1).webp"
     ]
 }
