@@ -1,8 +1,6 @@
 {
 
 
- "_hint": "Dhaka",
-
   "dhaka":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/dhak%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/dhak%20(2).webp",
@@ -111,7 +109,6 @@
 
 
 
- "_hint": "Chittagong",
     
   "chattogram":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/ctg%20(1).webp",
@@ -216,7 +213,8 @@
     ],
 
 
-"_hint": "Rajshahi",
+
+
 
   "rajshahi":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/raj%20(2).webp"
@@ -273,7 +271,7 @@
 
 
 
- "_hint": "Mymensing",
+
 
   
   "mymensingh":[
@@ -305,7 +303,8 @@
     ],
 
 
- "_hint": "Khulna",
+
+
 
 
   "khulna":[
@@ -360,7 +359,8 @@
        
 
 
- "_hint": "Barishal",
+
+
 
   "barishal":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/brsl%20(1).webp",
@@ -404,7 +404,8 @@
 
        
 
- "_hint": "Sylhet",
+
+
 
   "sylhet":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/sylt%20(1).webp",
@@ -443,7 +444,8 @@
        
 
 
- "_hint": "Rangpur",
+
+
 
   "rangpur":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
