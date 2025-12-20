@@ -24,7 +24,6 @@
   ],
 
 
- "_hint": "Dhaka",
 
   "dhaka":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk1%20(1).webp",
@@ -372,7 +371,6 @@
 
 
 
- "_hint": "Chittagong",
     
   "chattogram":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/ctg/ctg1%20(1).webp",
@@ -658,7 +656,8 @@
     ],
 
 
-"_hint": "Rajshahi",
+
+
 
   "rajshahi":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Rajshi/rajjsahi/rajshahi1%20(1).webp",
@@ -877,7 +876,6 @@
 
 
 
- "_hint": "Mymensing",
 
   
   "mymensingh":[
@@ -1034,7 +1032,8 @@
 
 
 
- "_hint": "Khulna",
+
+
 
 
   "khulna":[
@@ -1195,7 +1194,8 @@
        
 
 
- "_hint": "Barishal",
+ 
+
 
   "barishal":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Barisl/brsl/brsl1%20(1).webp",
@@ -1278,7 +1278,8 @@
 
        
 
- "_hint": "Sylhet",
+
+
 
   "sylhet":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Sylht/sylht/syl1%20(1).webp",
@@ -1358,7 +1359,8 @@
        
 
 
- "_hint": "Rangpur",
+
+
 
   "rangpur":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ranpr/rangpuur/rangpur1%20(1).webp",
@@ -1503,7 +1505,8 @@
 
 
 
- "_hint": "Other_Political_Group",
+
+
 
   "OtherDhaka":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/demo.webp"
