@@ -287,9 +287,18 @@
   "rangpur": [
 
   ],
-
+ "thakurgaon":[
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/thakur2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/thakur3.webp"
+  ],
 
   "dinajpur": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dinaj3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dinaj5.webp"
+  ],
 
-  ]
+  "panchagarh":[   
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/poncho1.webp"
+    ]
+
 }
