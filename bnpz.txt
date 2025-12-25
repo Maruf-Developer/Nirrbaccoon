@@ -1519,13 +1519,18 @@
     ],
 
 
-  "jomiot":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot%20(4).webp"
+  "jomiot_syl":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_syl5.webp"
     ],
-
+  "jomiot_brahmn":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_brhmn2.webp"
+    ],
+  "jomiot_nilpha":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_nilpha1.webp"
+    ],
+  "jomiot_nara":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/jomiot_nara4.webp"
+    ],
 
 
   "mixposter": [
