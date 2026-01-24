@@ -178,6 +178,10 @@
 
   ],
 
+  "mymen_khelafot": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/mymen2.webp"
+  ],
+
   "mymen_ldp": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/mymen8.webp"
   ],
