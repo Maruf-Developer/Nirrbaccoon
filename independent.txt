@@ -1,13 +1,8 @@
 {
   "dhaka": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9a.webp"
   ],
-
-  "dhaka_khelafot": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/dhaka13.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/shariatpur1.webp"
-  ],
-
 
   "tangail": [
 
@@ -55,7 +50,7 @@
 
 
   "madaripur": [
-
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/madaripr2.webp"
   ],
 
 
@@ -72,12 +67,6 @@
   "chattogram": [
 
   ],
-
-
-  "ctg_ldp": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/ctg14.webp"
-  ],
-
 
   "cumilla": [
 
@@ -176,10 +165,6 @@
 
   "mymensingh": [
 
-  ],
-
-  "mymen_ldp": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/mymen8.webp"
   ],
 
   "jamalpur": [
