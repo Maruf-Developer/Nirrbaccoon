@@ -1,0 +1,308 @@
+{
+  "dhaka": [
+
+  ],
+
+  "dhaka_khelafot": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/dhaka13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/shariatpur1.webp"
+  ],
+
+
+  "tangail": [
+
+  ],
+
+
+  "gazipur": [
+
+  ],
+
+
+  "narsingdi": [
+
+  ],
+
+
+  "narayanganj": [
+
+  ],
+
+
+  "kishoreganj": [
+
+  ],
+
+
+  "faridpur": [
+
+  ],
+
+
+  "manikganj": [
+
+  ],
+
+
+  "munshiganj": [
+
+  ],
+
+
+  "gopalganj": [
+
+  ],
+
+
+  "madaripur": [
+
+  ],
+
+
+  "shariatpur": [
+
+  ],
+
+
+  "rajbari": [
+
+  ],
+
+
+  "chattogram": [
+
+  ],
+
+
+  "ctg_ldp": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/ctg14.webp"
+  ],
+
+
+  "cumilla": [
+
+  ],
+
+
+  "brahmanbaria": [
+
+  ],
+
+
+  "noakhali": [
+
+  ],
+
+
+  "chandpur": [
+
+  ],
+
+
+  "lakshmipur": [
+
+  ],
+
+
+  "coxsbazar": [
+
+  ],
+
+
+  "feni": [
+
+  ],
+
+
+  "parbotto": [
+
+  ],
+
+
+  "khagrachhari": [
+
+  ],
+
+
+  "rangamati": [
+
+  ],
+
+
+  "bandarban": [
+
+  ],
+
+
+  "rajshahi": [
+
+  ],
+
+
+  "bogura": [
+
+  ],
+
+
+  "naogaon": [
+
+  ],
+
+
+  "natore": [
+
+  ],
+
+
+  "pabna": [
+
+  ],
+
+
+  "sirajganj": [
+
+  ],
+
+
+  "chapainawabganj": [
+
+  ],
+
+
+  "joypurhat": [
+
+  ],
+
+
+  "mymensingh": [
+
+  ],
+
+  "mymen_ldp": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/mymen8.webp"
+  ],
+
+  "jamalpur": [
+
+  ],
+
+
+  "netrokona": [
+
+  ],
+
+
+  "sherpur": [
+
+  ],
+
+
+  "khulna": [
+
+  ],
+
+
+  "jessore": [
+
+  ],
+
+
+  "kushtia": [
+
+  ],
+
+
+  "jhenaidah": [
+
+  ],
+
+
+  "bagerhat": [
+
+  ],
+
+
+  "satkhira": [
+
+  ],
+
+
+  "chuadanga": [
+
+  ],
+
+
+  "meherpur": [
+
+  ],
+
+
+  "magura": [
+
+  ],
+
+
+  "narail": [
+
+  ],
+
+
+  "barishal": [
+
+  ],
+
+
+  "patuakhali": [
+
+  ],
+
+
+  "bhola": [
+
+  ],
+
+
+  "pirojpur": [
+
+  ],
+
+
+  "barguna": [
+
+  ],
+
+
+  "jhalokathi": [
+
+  ],
+
+
+  "sylhet": [
+
+  ],
+
+
+  "sunamganj": [
+
+  ],
+
+
+  "moulvibazar": [
+
+  ],
+
+
+  "habiganj": [
+
+  ],
+
+
+  "rangpur": [
+
+  ],
+
+
+  "dinajpur": [
+
+  ]
+}
