@@ -124,7 +124,8 @@
   ],
 
   "ctg_ldp": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/ctg14.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/ctg14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/chd2.webp"
   ],
 
 
