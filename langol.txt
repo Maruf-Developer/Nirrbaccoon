@@ -277,6 +277,9 @@
 
   ],
 
+  "kurigram": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/kuri1.webp"
+  ],
 
   "dinajpur": [
 
