@@ -77,15 +77,27 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk5%20(4).webp"
     ],
 
-  "dhaka2":[
+  "dhaka2":[  
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk6%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk6%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk6%20(3).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk6%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk7%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk7%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk7%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk7%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk8%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk8%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk8%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk8%20(4).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk8%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk9%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk9%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk9%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk9%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk10%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk10%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk10%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/dhka/dhk10%20(4).webp"
     ],
 
 
