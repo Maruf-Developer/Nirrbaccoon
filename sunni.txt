@@ -87,7 +87,7 @@
 
 
   "brahmanbaria": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/brah%20(6).webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/brah6.webp"
   ],
 
 
@@ -97,7 +97,7 @@
 
 
   "chandpur": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/chad%20(3).webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/chad3.webp"
   ],
 
 
