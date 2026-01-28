@@ -92,7 +92,7 @@
 
 
   "lakshmipur": [
-
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/lokkhi1.webp"
   ],
 
 
@@ -177,7 +177,7 @@
 
 
   "netrokona": [
-
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/netro2.webp"
   ],
 
 
