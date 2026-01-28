@@ -1,5 +1,6 @@
 {
   "dhaka": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/dhk12.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/dhk18.webp"
   ],
 
@@ -86,7 +87,7 @@
 
 
   "brahmanbaria": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/brah%20(6).webp"
   ],
 
 
@@ -96,7 +97,7 @@
 
 
   "chandpur": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/chad%20(3).webp"
   ],
 
 
@@ -291,6 +292,7 @@
 
 
   "habiganj": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/hobi3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/hobi4a.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Sunni/hobi4.webp"
   ],
