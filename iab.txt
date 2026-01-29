@@ -482,7 +482,8 @@
     
   "lalmonirhat":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/lalmon1.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/lalmon2.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/lalmon2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/lalmon3.webp"
     ],
 
     
