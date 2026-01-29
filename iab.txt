@@ -86,6 +86,8 @@
 
     
   "gopalganj":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/gopl1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/gopl2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/gopl3.webp"
     ],
 
