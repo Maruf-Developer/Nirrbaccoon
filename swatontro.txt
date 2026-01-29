@@ -46,7 +46,8 @@
 
 
   "gopalganj": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/gopal2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/gopal2a.webp"
   ],
 
 
@@ -75,6 +76,7 @@
 
 
   "brahmanbaria": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/br2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/br5.webp"
   ],
 
@@ -165,6 +167,7 @@
 
 
   "mymensingh": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym10a.webp"
   ],
 
@@ -249,7 +252,7 @@
 
 
   "pirojpur": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/piroj2.webp"
   ],
 
 
