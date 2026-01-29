@@ -82,6 +82,7 @@
 
 
   "noakhali": [
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/noakhali2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/noakhali6.webp"
   ],
 
