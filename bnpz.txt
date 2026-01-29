@@ -594,10 +594,10 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria3%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria3%20(3).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria3%20(4).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4a%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4a%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4a%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria4a%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria5%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria5%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Ctg/bbria/bbaria5%20(3).webp",
@@ -1202,6 +1202,14 @@
 
     
   "jhenaidah":[
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin1%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin1%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin1%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin1%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin2%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin2%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin2%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin2%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin3%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin3%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/jenhda/jhin3%20(3).webp",
@@ -1234,10 +1242,10 @@
 
     
   "satkhira":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1a%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1a%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1a%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat1a%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat2%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat2%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Khuln/stkhra/sat2%20(3).webp",
