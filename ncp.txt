@@ -2,6 +2,7 @@
   "dhaka": [
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dhk8.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dhk11.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dhk18.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dhk19.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/dhk20.webp"
   ],
@@ -78,6 +79,7 @@
 
 
   "brahmanbaria": [
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/brahmn2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/brahmn3.webp"
   ],
 
