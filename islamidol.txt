@@ -57,6 +57,36 @@
   ],
 
 
+  "ghori_kishor": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/kis1.webp"
+  ],
+
+  "ghori_cumil": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/cm7.webp"
+  ],
+
+  "ghori_manik": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/manik2.webp"
+  ],
+
+  "ghori_narayan": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/nara5.webp"
+  ],
+
+  "ghori_mou": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/mou3.webp"
+  ],
+
+  "ghori_hobi": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/hob2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/hob4.webp"
+  ],
+
+  "ghori_syl": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/syl2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/syl5.webp"
+  ],
+
 
 
   "tangail": [
