@@ -277,6 +277,13 @@
 
   ],
 
+  "nilphamari": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/nilpha1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/nilpha3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/nilpha4.webp"
+
+  ],
+
   "kurigram": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/kuri1.webp"
   ],
