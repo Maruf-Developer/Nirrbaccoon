@@ -2,11 +2,12 @@
   "dhaka": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9a.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk7.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk12.webp"
   ],
 
   "tangail": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/tang5.webp"
   ],
 
 
