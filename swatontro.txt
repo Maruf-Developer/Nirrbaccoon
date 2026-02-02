@@ -28,6 +28,7 @@
 
 
   "kishoreganj": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/kishor1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/kishor5.webp"
   ],
 
@@ -73,6 +74,7 @@
   ],
 
   "cumilla": [
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/cm2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/cm7.webp"
   ],
 
@@ -169,6 +171,7 @@
 
   "mymensingh": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym6.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym7.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym10a.webp"
   ],
