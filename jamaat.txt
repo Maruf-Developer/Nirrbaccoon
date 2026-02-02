@@ -166,7 +166,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bbaria%20(3).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bbaria%20(4).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bbaria%20(5).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bbaria%20(6).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bbaria%20(6a).webp"
     ],
 
     
