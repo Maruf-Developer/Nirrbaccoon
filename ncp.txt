@@ -9,7 +9,7 @@
 
 
   "tangail": [
-
+"https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/tngl3.webp"
   ],
 
 
