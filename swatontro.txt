@@ -3,7 +3,8 @@
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk9a.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk7.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk12.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/dhk14.webp"
   ],
 
   "tangail": [
@@ -44,7 +45,7 @@
 
 
   "munshiganj": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mun2.webp"
   ],
 
 
@@ -171,6 +172,7 @@
 
   "mymensingh": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym6.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym7.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mym10a.webp"
@@ -207,8 +209,8 @@
 
 
   "jhenaidah": [
-
-  ],
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/jhe4.webp"
+],
 
 
   "bagerhat": [
