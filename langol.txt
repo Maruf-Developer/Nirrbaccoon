@@ -225,7 +225,7 @@
 
 
   "barishal": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Langol/bars3.webp"
   ],
 
 
