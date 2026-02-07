@@ -8,7 +8,8 @@
   ],
 
   "tangail": [
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/tang5.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/tang5.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/tang8.webp"
   ],
 
 
@@ -45,7 +46,7 @@
 
 
   "munshiganj": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/mun3.webp"
   ],
 
 
