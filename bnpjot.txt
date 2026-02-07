@@ -9,7 +9,8 @@
     ],
 
   "truck_barisal":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_patua3.webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_patua3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/other/gono_patua4.webp"
     ],
 
   "truck_rangpur":[
