@@ -334,6 +334,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul2.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul4.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Islamibd/khul6.webp"
     ],
 
