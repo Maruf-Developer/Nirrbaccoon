@@ -391,9 +391,10 @@
 
     
   "bagerhat":[
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bgerhat%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bgerhat%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bgerhat%20(3).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bager%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bager%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bager%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/bager%20(4).webp"
     ],
 
     
