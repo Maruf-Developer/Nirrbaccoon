@@ -190,7 +190,7 @@
 
 
   "sherpur": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/sher1.webp"
   ],
 
 
@@ -240,7 +240,7 @@
 
 
   "narail": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Independent/naril2.webp"
   ],
 
 
