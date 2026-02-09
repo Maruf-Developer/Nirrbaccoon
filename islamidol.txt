@@ -11,7 +11,7 @@
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/farid2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/farid4.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/madarpr1.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/madarpr2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/madarpr2a.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/kishor1.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/kishor6.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/gopal2.webp",
@@ -140,7 +140,8 @@
 
   "ctg_ldp": [
   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/ctg14.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/chd2.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/chd2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/IslamiDol/chd5.webp"
   ],
 
 
