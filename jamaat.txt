@@ -540,7 +540,7 @@
   "lalmonirhat":[
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/lalmoni%20(1).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/lalmoni%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/lalmoni%20(3).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/Jamaat/lalm3.webp"
     ],
 
     
