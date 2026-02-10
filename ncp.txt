@@ -14,7 +14,7 @@
 
 
   "gazipur": [
-
+  "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/NCP/gaz2.webp"
   ],
 
 
