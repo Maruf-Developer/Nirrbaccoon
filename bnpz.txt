@@ -352,10 +352,14 @@
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi1%20(2).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi1%20(3).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi1%20(4).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi2%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi2%20(2).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi2%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/munshi2%20(4).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun2%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun2%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun2%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun2%20(4).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun3%20(1).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun3%20(2).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun3%20(3).webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/Nirrbaccoon/refs/heads/main/BNP/Dhka/mnshgnj/mun3%20(4).webp"
     ],
 
     
